@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Свадебная фотосессия",
+    "category": "Свадьба",
+    "amount": 150,
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Портретная съемка",
+    "category": "Портрет",
+    "amount": 20,
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Репортаж с конференции",
+    "category": "Репортаж",
+    "amount": 80,
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "выпускной",
+    "category": "школа",
+    "amount": 100,
+    "completed": false
+  }
+]
